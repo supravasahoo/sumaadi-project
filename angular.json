@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "sumaadi"
+  "defaultProject": "sumaadi",
+  "cli": {
+    "analytics": "af1e69b0-8770-46db-b1eb-caf85969edbb"
+  }
 }
